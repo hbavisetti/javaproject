@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World My New Code" );
+        System.out.println( "Hello My New Code" );
     }
 
 	public int calculateSomething() {
